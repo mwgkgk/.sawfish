@@ -1,0 +1,6 @@
+;;; vim:ft=lisp
+
+(load "~/.sawfish/init")
+(load "~/.sawfish/options")
+(load "~/.sawfish/keys")
+(load "~/.sawfish/workspaces")
